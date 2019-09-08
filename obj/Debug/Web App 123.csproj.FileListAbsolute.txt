@@ -1,0 +1,51 @@
+C:\Users\48209\source\repos\Web App 123\bin\Web App 123.dll.config
+C:\Users\48209\source\repos\Web App 123\bin\Web App 123.dll
+C:\Users\48209\source\repos\Web App 123\bin\Web App 123.pdb
+C:\Users\48209\source\repos\Web App 123\bin\roslyn\csc.exe
+C:\Users\48209\source\repos\Web App 123\bin\roslyn\csc.exe.config
+C:\Users\48209\source\repos\Web App 123\bin\roslyn\csc.rsp
+C:\Users\48209\source\repos\Web App 123\bin\roslyn\csi.exe
+C:\Users\48209\source\repos\Web App 123\bin\roslyn\csi.rsp
+C:\Users\48209\source\repos\Web App 123\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\48209\source\repos\Web App 123\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\48209\source\repos\Web App 123\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\48209\source\repos\Web App 123\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\48209\source\repos\Web App 123\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\48209\source\repos\Web App 123\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\48209\source\repos\Web App 123\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\48209\source\repos\Web App 123\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\48209\source\repos\Web App 123\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\48209\source\repos\Web App 123\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\48209\source\repos\Web App 123\bin\roslyn\System.AppContext.dll
+C:\Users\48209\source\repos\Web App 123\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\48209\source\repos\Web App 123\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\48209\source\repos\Web App 123\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\48209\source\repos\Web App 123\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\48209\source\repos\Web App 123\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\48209\source\repos\Web App 123\bin\roslyn\vbc.exe
+C:\Users\48209\source\repos\Web App 123\bin\roslyn\vbc.exe.config
+C:\Users\48209\source\repos\Web App 123\bin\roslyn\vbc.rsp
+C:\Users\48209\source\repos\Web App 123\bin\roslyn\VBCSCompiler.exe
+C:\Users\48209\source\repos\Web App 123\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\48209\source\repos\Web App 123\bin\Antlr3.Runtime.dll
+C:\Users\48209\source\repos\Web App 123\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\48209\source\repos\Web App 123\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\48209\source\repos\Web App 123\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\48209\source\repos\Web App 123\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\48209\source\repos\Web App 123\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\48209\source\repos\Web App 123\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\48209\source\repos\Web App 123\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\48209\source\repos\Web App 123\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\48209\source\repos\Web App 123\bin\Newtonsoft.Json.dll
+C:\Users\48209\source\repos\Web App 123\bin\System.Web.Optimization.dll
+C:\Users\48209\source\repos\Web App 123\bin\WebGrease.dll
+C:\Users\48209\source\repos\Web App 123\bin\System.Web.Optimization.xml
+C:\Users\48209\source\repos\Web App 123\bin\Newtonsoft.Json.xml
+C:\Users\48209\source\repos\Web App 123\bin\Antlr3.Runtime.pdb
+C:\Users\48209\source\repos\Web App 123\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\48209\source\repos\Web App 123\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\48209\source\repos\Web App 123\obj\Debug\Web App 123.csprojAssemblyReference.cache
+C:\Users\48209\source\repos\Web App 123\obj\Debug\Web App 123.csproj.CoreCompileInputs.cache
+C:\Users\48209\source\repos\Web App 123\obj\Debug\Web App 123.csproj.CopyComplete
+C:\Users\48209\source\repos\Web App 123\obj\Debug\Web App 123.dll
+C:\Users\48209\source\repos\Web App 123\obj\Debug\Web App 123.pdb
